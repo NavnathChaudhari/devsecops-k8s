@@ -53,7 +53,7 @@ pipeline {
 
   stages {
 
- //    stage('Build Artifact1 - Maven') {
+ //    stage('Build Artifact - Maven') {
  //      steps {
  //        sh "mvn clean package -DskipTests=true"
  //        archive 'target/*.jar'
